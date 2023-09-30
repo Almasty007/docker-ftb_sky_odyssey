@@ -3,7 +3,7 @@ FROM audiohacked/ftb_base:latest
 LABEL maintainer="audiohacked@gmail.com"
 
 ARG MODPACK="FTBSkyOdyssey"
-ARG FTB_VERSION="1_1_0"
+ARG FTB_VERSION="1_4_2"
 ARG SERVER_FILE="${MODPACK}Server.zip"
 # ARG BASE_URL="http://ftb.cursecdn.com/FTB2/modpacks/${MODPACK}"
 
